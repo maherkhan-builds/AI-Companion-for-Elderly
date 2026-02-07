@@ -78,3 +78,10 @@ This experience requires persistent user preferences, routine scheduling, smart-
 ## Summary
 
 **SilverCircle** is a future-facing elder-care AI companion that reduces loneliness by combining voice conversation, proactive reminders, entertainment, and secure family connection—built with accessibility and privacy at the center. It’s designed to help seniors feel supported, independent, and connected every day.
+
+### Follow the journey
+
+- Instagram: **https://www.instagram.com/social.icm/**  
+- TikTok: **https://www.tiktok.com/@social_media_coach**  
+- LinkedIn: **https://www.linkedin.com/in/mahersocialmediastrategistus/**  
+- GitHub: **https://github.com/maherkhan-builds**
