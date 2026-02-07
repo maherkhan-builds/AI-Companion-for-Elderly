@@ -79,6 +79,9 @@ This experience requires persistent user preferences, routine scheduling, smart-
 
 **SilverCircle** is a future-facing elder-care AI companion that reduces loneliness by combining voice conversation, proactive reminders, entertainment, and secure family connection—built with accessibility and privacy at the center. It’s designed to help seniors feel supported, independent, and connected every day.
 
+**Part of my 30-day vibe-coding challenge**  
+Building one future-facing, industry-specific AI app every day using Google App Studio and other tools.
+
 ### Follow the journey
 
 - Instagram: **https://www.instagram.com/social.icm/**  
