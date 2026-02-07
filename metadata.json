@@ -1,0 +1,7 @@
+{
+  "name": "Eldercare AI Companion",
+  "description": "An AI companion application designed to combat loneliness in elderly individuals, offering conversational AI, reminders, entertainment, and facilitating secure family connections.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
