@@ -1,7 +1,7 @@
 # SilverCircle – AI Companion for Seniors
 
 **Industry:** Elder Care / Aging Tech / Smart Home Wellness  
-**Part of 100-Day AI App Challenge**
+**Part of AI App Challenge - Building one AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
 
 ## The Problem
 
@@ -21,9 +21,10 @@ Millions of seniors live alone and experience loneliness, which can impact menta
 - Predictive support: suggests help based on habits (missed meds, unusual inactivity)  
 - Smart home integration prompts (lights, temperature, routines) for comfort and safety  
 
-## Why This Can’t Be Done in ChatGPT
+## Why This Requires a Purpose-Built App
 
-This experience requires persistent user preferences, routine scheduling, smart-home triggers, and safe family linkage across sessions. ChatGPT can chat, but it can’t reliably manage reminders, integrate with calendars or devices, or maintain a consistent caregiver-style companion experience with privacy controls.
+General AI tools work in isolated conversations, but this experience depends on continuity, routines, and trusted context over time.
+A dedicated app can persist user preferences, manage schedules, connect with devices and calendars, and operate with family-safe controls—creating a reliable, caregiver-style experience that conversational AI alone isn’t designed to provide.
 
 ## Who This Is For
 
@@ -79,7 +80,7 @@ This experience requires persistent user preferences, routine scheduling, smart-
 
 **SilverCircle** is a future-facing elder-care AI companion that reduces loneliness by combining voice conversation, proactive reminders, entertainment, and secure family connection—built with accessibility and privacy at the center. It’s designed to help seniors feel supported, independent, and connected every day.
 
-**Part of my 30-day vibe-coding challenge**  
+**Part of my vibe-coding challenge**  
 Building one future-facing, industry-specific AI app every day using Google App Studio and other tools.
 
 ### Follow the journey
