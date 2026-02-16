@@ -5,7 +5,7 @@ This project explores practical applications of LLM-powered systems using Google
 # SilverCircle – AI Companion for Seniors
 
 **Industry:** Elder Care / Aging Tech / Smart Home Wellness  
-**Part of AI App Challenge - Building one AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
+**Part of AI App Challenge - Building one AI app per day using vibe-coding , focused on one industry problem at a time.**
 
 ## The Problem
 
