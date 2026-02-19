@@ -1,7 +1,3 @@
-# Built with Generative AI
-
-This project explores practical applications of LLM-powered systems using Google Gemini and modern TypeScript architectures.
-
 # SilverCircle – AI Companion for Seniors
 
 **Industry:** Elder Care / Aging Tech / Smart Home Wellness  
